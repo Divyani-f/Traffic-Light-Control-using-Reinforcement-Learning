@@ -1,4 +1,4 @@
 # Traffic-Light-Control-using-Reinforcement-Learning
 The Deep Reinforcement Learning Traffic Light Control project aims to provide an intelligent control system for regulating traffic flow at intersections. The system's goal is to minimize delays and lessen congestion.
-Problem statement
+# Problem statement
 In the current world ,especially in metropolitan areas, population has significantly increased resulting in the increased number of cars more than ever .This has resulted in more traffic jams , delays and ultimately higher levels of air pollution and increased fuel consumption overall.Many times traffic problems are caused due to fixed timing durations of traffic control lights and inefficiency in adjusting to real time traffic load.That is why we need a more intelligent and effective traffic control system to tackle the existing problem.This system aims to build a traffic light control which adjusts and optimizes to real time traffic on the intersections.
