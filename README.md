@@ -2,3 +2,7 @@
 The Deep Reinforcement Learning Traffic Light Control project aims to provide an intelligent control system for regulating traffic flow at intersections. The system's goal is to minimize delays and lessen congestion.
 # Problem statement
 In the current world ,especially in metropolitan areas, population has significantly increased resulting in the increased number of cars more than ever .This has resulted in more traffic jams , delays and ultimately higher levels of air pollution and increased fuel consumption overall.Many times traffic problems are caused due to fixed timing durations of traffic control lights and inefficiency in adjusting to real time traffic load.That is why we need a more intelligent and effective traffic control system to tackle the existing problem.This system aims to build a traffic light control which adjusts and optimizes to real time traffic on the intersections.
+
+#Code Structure
+I train my reiforcement model using Deep Q learning , where I have used TensorFlow library for neural network part. For testing the model's performance I have run the traffic girl traffic simulation and before and after training the model and observed average wait time & queue length for both scenarios.
+The Main folder has the main Python file , where the model is trained using Deep Q Learning, Test Folder two test files .The Test folder has two test files. The Map folder has all the maps that were used to train the model.
